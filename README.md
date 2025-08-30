@@ -19,6 +19,7 @@
 <div align="left">
   <h2>Featured Projects</h2>
   <br>
+
   ### KindRipple
   <p>A comprehensive food donation platform built with <b>React Native</b> and <b>Supabase</b>. KindRipple connects restaurants with surplus food to NGOs and volunteers, creating an efficient ecosystem to reduce food waste. It features a modern, role-based design and supports real-time tracking, volunteer coordination, and impact analytics. This project showcases my skills in full-stack development, database design, and mobile app architecture.</p>
 
