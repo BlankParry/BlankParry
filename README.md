@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm KM Amogha 👋</h1>
 
-<h3 align="center">I am a passionate student pursuing a B.E. in Artificial Intelligence & Machine Learning. I enjoy building intelligent systems and robust applications, and I'm always looking for ways to apply computer vision, data analysis, and software engineering to solve real-world problems.</h3>
+<h3 align="left">I am a passionate student pursuing a B.E. in Artificial Intelligence & Machine Learning. I enjoy building intelligent systems and robust applications, and I'm always looking for ways to apply computer vision, data analysis, and software engineering to solve real-world problems.</h3>
 
 ---
 
-<div align="center">
+<div align="left">
   <h2>My Technical Toolkit</h2>
   <br>
   <p><b>Languages:</b> Python, C, C++</p>
@@ -16,7 +16,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h2>Featured Projects</h2>
   <br>
   
@@ -32,7 +32,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h2>🤝 Let's Connect</h2>
   <br>
   <p><b>LinkedIn:</b> <a href="www.linkedin.com/in/km-amogha-207543273">www.linkedin.com/in/km-amogha-207543273</a></p>
