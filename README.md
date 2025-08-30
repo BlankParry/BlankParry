@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm KM Amogha 👋</h1>
 
-<h3 align="left">I am a passionate student pursuing a B.E. in Artificial Intelligence & Machine Learning. I enjoy building intelligent systems and robust applications, and I'm always looking for ways to apply computer vision, data analysis, and software engineering to solve real-world problems.</h3>
+<h3 align="left">I am a passionate student pursuing a B.E. in Artificial Intelligence & Machine Learning. I enjoy building intelligent systems and robust applications, and I'm always looking for ways to apply AI, data analytics, and software engineering to solve real-world problems.</h3>
 
 ---
 
